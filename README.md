@@ -1,4 +1,4 @@
-<p align="center"><img alt="stupidzhang的个人博客" src="https://raw.githubusercontent.com/stupidzhangsj/picture/master/markdown/picture/Favicon.png"></p><h2 align="center">
+<p align="center"><img alt="stupidzhang的个人博客" src="https://raw.githubusercontent.com/stupidzhangsj/java_learn/master/Spring/images/favicon.ico"></p><h2 align="center">
 stupidzhang的个人博客
 </h2>
 
