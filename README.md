@@ -1,4 +1,4 @@
-<p align="center"><img alt="stupidzhang的个人博客" src="https://raw.githubusercontent.com/stupidzhangsj/java_learn/master/Spring/images/favicon.ico"></p><h2 align="center">
+<p align="center"><img alt="stupidzhang的个人博客" src="http://img.stupidzhang.com/image/logo_2.png?stupidzhang"></p><h2 align="center">
 stupidzhang的个人博客
 </h2>
 
@@ -10,6 +10,7 @@ stupidzhang的个人博客
 
 ### 最新
 
+* [ 布隆过滤器是什么？](http://solo.stupidzhang.com/articles/2019/09/03/1567487473758.html)
 * [带你深入浅出的理解ReentrantLock](http://solo.stupidzhang.com/articles/2019/07/18/1563432428114.html)
 * [你真的了解synchronized 吗？](http://solo.stupidzhang.com/articles/2019/07/18/1563428176037.html)
 * [我在 GitHub 上的开源项目](http://solo.stupidzhang.com/my-github-repos)
