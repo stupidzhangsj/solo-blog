@@ -1,4 +1,4 @@
-<p align="center"><img alt="stupidzhang的个人博客" src="http://img.stupidzhang.com/image/logo_2.png?stupidzhang"></p><h2 align="center">
+<p align="center"><img alt="stupidzhang的个人博客" src="http://qiniu.img.stupidzhang.com/image/logo_2.png?stupidzhang"></p><h2 align="center">
 stupidzhang的个人博客
 </h2>
 
