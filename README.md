@@ -10,6 +10,7 @@ stupidzhang的个人博客
 
 ### 最新
 
+* [Redis为什么不建议使用keys命令](http://solo.stupidzhang.com/articles/2019/10/13/1570931650848.html)
 * [ 布隆过滤器是什么？](http://solo.stupidzhang.com/articles/2019/09/03/1567487473758.html)
 * [带你深入浅出的理解ReentrantLock](http://solo.stupidzhang.com/articles/2019/07/18/1563432428114.html)
 * [你真的了解synchronized 吗？](http://solo.stupidzhang.com/articles/2019/07/18/1563428176037.html)
