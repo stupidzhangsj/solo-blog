@@ -10,6 +10,7 @@ stupidzhang的个人博客
 
 ### 最新
 
+* [JVM 垃圾回收 (CMS 和 G1) 篇](http://solo.stupidzhang.com/articles/2019/10/14/1571043003426.html)
 * [Redis为什么不建议使用keys命令](http://solo.stupidzhang.com/articles/2019/10/13/1570931650848.html)
 * [ 布隆过滤器是什么？](http://solo.stupidzhang.com/articles/2019/09/03/1567487473758.html)
 * [带你深入浅出的理解ReentrantLock](http://solo.stupidzhang.com/articles/2019/07/18/1563432428114.html)
